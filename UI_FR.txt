@@ -1,0 +1,19 @@
+UI_FR = {
+	UI_trait_Susceptible = "Susceptible",
+	UI_trait_SusceptibleDesc = "Vous êtes sensible à la souche aérienne de l'infection de Knox.<br>Vous devez porter un masque près des zombies pour éviter d'attraper le virus.",
+
+	UI_Susceptible_Filter = "Filtre",
+	UI_Susceptible_No_Filter = "Pas de filtre",
+	UI_Susceptible_Swap_Filter = "Changer de filtre",
+	UI_Susceptible_Insert_Filter = "Insérer un filtre",
+	UI_Susceptible_Remove_Filter = "Retirer le filtre",
+
+	UI_Susceptible_Oxygen = "Oxygène",
+	UI_Susceptible_No_Oxygen = "Pas d'oxygène",
+	UI_Susceptible_Swap_Oxygen = "Changer d'oxygène",
+	UI_Susceptible_Insert_Oxygen = "Insérer de l'oxygène",
+	UI_Susceptible_Remove_Oxygen = "Retirer de l'oxygène",
+
+	UI_Susceptible_Repair_With = "Réparer avec...",
+	UI_Susceptible_Bleach_Repair = "Nettoyer avec de l'eau de Javel"
+}

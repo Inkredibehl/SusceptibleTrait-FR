@@ -1,0 +1,10 @@
+Sandbox_FR = {
+	Sandbox_Susceptible = "Susceptible",
+	Sandbox_Susceptible_EveryoneIsSusceptible = "Tout le monde est susceptible",
+	Sandbox_Susceptible_InstantDeath = "Mort instantanée par infection",
+	Sandbox_Susceptible_BaseInfectionChance = "Chance d'infection de base",
+	Sandbox_Susceptible_MaskDamageRate = "Taux de détérioration du masque",
+	Sandbox_Susceptible_MaskFilteringPower = "Puissance de filtration du masque",
+	Sandbox_Susceptible_SusceptibleSpawnChance = "Chance de spawn de zombie masqué",
+	Sandbox_Susceptible_SusceptibleLootChance = "Chance de trouver des objets de masque sur les zombies masqués",
+}

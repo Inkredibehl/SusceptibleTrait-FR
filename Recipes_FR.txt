@@ -1,0 +1,7 @@
+Recipe_FR = {
+	Recipe_Create_Cloth_Mask = "Fabriquer un masque facial en tissu",
+	Recipe_Open_Box_of_Face_Masks = "Ouvrir une boîte de masques faciaux",
+	Recipe_Put_Face_Masks_in_Box = "Placer les masques faciaux dans la boîte",
+	Recipe_Open_Box_of_Dust_Masks = "Ouvrir une boîte de masques anti-poussière",
+	Recipe_Put_Dust_Masks_in_Box = "Placer les masques anti-poussière dans la boîte",
+}
